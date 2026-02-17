@@ -1,0 +1,7 @@
+p{color:red;
+background:pink;
+text-align:center;}
+a:hover{background:red;}
+a:active{background:green;}
+a:link{background:yellow;}
+a:visited{background:blue;}
